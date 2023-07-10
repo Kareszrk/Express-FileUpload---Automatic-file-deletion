@@ -1,0 +1,1 @@
+This repository contains code which is written for one reason, express-fileupload does not do automatic file deletes (fortunetly), but for security reasons and maintainance reasons we have to delete unnecessary files from our server. This code does exacly that and it is configureable as your needs.
